@@ -15,7 +15,7 @@ A data-driven case study exploring movie ratings, platform comparisons, and pote
 ---
 
 ## 📂 Netflix
-A project focused on Netflix data—details on the specific analysis or case study can be found in the project folder.
+This project provides an in-depth exploratory data analysis (EDA) of the Netflix Titles dataset. The analysis uncovers trends, patterns, and insights about the content available on Netflix, including movies and TV shows from around the world.
 
 ---
 
